@@ -1,0 +1,35 @@
+.user-container {
+    background: #f7f7f7;
+    padding: 2em;
+}
+
+.card-box {
+    margin: 2em 0;
+    padding: 2em;
+}
+
+.input-profile {
+    width: 100%!important;
+}
+
+.avatar {
+    width: 200px!important;
+    height: 200px!important;
+    display: block;
+    margin: 1em;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.box-close {
+    text-align: right!important;
+    margin: 1em 0 0 0!important;
+}
+
+.box-info {
+    padding: 6px 0;
+}
+
+.close {
+    color: #ff2323;
+}
